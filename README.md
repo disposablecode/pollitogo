@@ -1,0 +1,2 @@
+# pollitogo
+Replacement for duckduckgo
